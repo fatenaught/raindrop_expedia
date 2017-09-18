@@ -8,7 +8,7 @@ The goal of this project is to build a multi classification recommendation model
 
 <br />
 
-![](https://kaggle2.blob.core.windows.net/competitions/kaggle/5056/media/expedia_icons.png)
+![](https://github.com/fatenaught/raindrop_expedia/blob/master/expedia_icons.png)
 
 ## Data Cleaning and Feature Engineering
 
