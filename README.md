@@ -25,12 +25,12 @@ The goal of this project is to build a multi classification recommendation model
 
 <div style="-webkit-column-count: 3; -moz-column-count: 3; column-count: 3; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
-        <!-- first column's content -->
+        <!-- first column's content --> dddd
     </div>
     <div style="display: inline-block;">
-        <!-- second column's content -->
+        <!-- second column's content --> dddd 
     </div>
     <div style="display: inline-block;">
-        <!-- third column's content -->
+        <!-- third column's content --> dddd
     </div>
 </div>
