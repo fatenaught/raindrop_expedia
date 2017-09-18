@@ -1,2 +1,3 @@
-# raindrop_expedia
-Expedia Recommender Kaggle
+PROJECT NAME: Expedia Hotel Recommendation
+TEAM NAME: RainDrop
+
