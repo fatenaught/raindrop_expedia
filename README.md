@@ -2,9 +2,8 @@
 > By RainDrop
 <br />
 
-| Daodao Wang </br> git status <br/> hehe </br> | Weiye Deng     |
-| :---:        |     :---:      |
-| git status <br/> hehe </br>  | git status     |
+| Daodao Wang  <span style="font-weight:normal">Quantitative Research Associate</span>| Weiye Deng     |
+
   
 
 ## Introduction
