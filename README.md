@@ -8,7 +8,7 @@ The goal of this project is to build a multi classification recommendation model
 
 <br />
 
-![](https://kaggle2.blob.core.windows.net/competitions/kaggle/5056/media/expedia_icons.png)
+![](https://github.com/dwy904/RainDrop_ExpediaRecommendation/blob/master/expedia_icons.png)
 
 ## Data Cleaning and Feature Engineering
 
@@ -23,14 +23,3 @@ The goal of this project is to build a multi classification recommendation model
 ## Model Testing
 
 
-<div style="-webkit-column-count: 3; -moz-column-count: 3; column-count: 3; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-    <div style="display: inline-block;">
-        <!-- first column's content --> dddd
-    </div>
-    <div style="display: inline-block;">
-        <!-- second column's content --> dddd 
-    </div>
-    <div style="display: inline-block;">
-        <!-- third column's content --> dddd
-    </div>
-</div>
