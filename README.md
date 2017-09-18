@@ -4,7 +4,8 @@
 
 | Daodao Wang| Weiye Deng |
 |    :---:    |     :---:  | 
-| Quantitative Research Associate <br /> MS. Analytics - Data Science <br />|Business Intelligence Engineer <br /> MS. Analytics - Data Science <br />|
+| Quantitative Research Associate <br /> American Society of Engineering Education <br /> <br /> MS. Analytics - Data Science <br /> Georgetown University
+| Business Intelligence Engineer  <br /> Stratifyd Inc <br /> <br /> MS. Analytics - Data Science <br /> Georgetown University|
   
 
 ## Introduction
