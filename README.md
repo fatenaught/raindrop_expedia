@@ -1,3 +1,3 @@
-PROJECT NAME: Expedia Hotel Recommendation
-TEAM NAME: RainDrop
+# PROJECT NAME: Expedia Hotel Recommendation
+# TEAM NAME: RainDrop
 
