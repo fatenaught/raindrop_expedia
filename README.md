@@ -1,6 +1,6 @@
 # Expedia Hotel Recommendation
 > By RainDrop
-<br />
+
 
 ## About RainDrop
 | Daodao Wang| Weiye Deng |
