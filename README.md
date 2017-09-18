@@ -13,7 +13,6 @@ The goal of this project is to build a multi classification recommendation model
 
 ![](https://github.com/dwy904/RainDrop_ExpediaRecommendation/blob/master/expedia_icons.png)
 
-<br />
 
 
 ## Environment Setup
