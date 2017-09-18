@@ -2,10 +2,9 @@
 > By RainDrop
 <br />
 
-| <span style="font-weight:normal"> Quantitative Research Associate </span>| 
-Weiye Deng |
+| Daodao Wang| Weiye Deng |
 |    :---:    |     :---:  | 
-
+| Quantitative Research Associate <br /> MS. Analytics - Data Science <br />|Business Intelligence Engineer <br /> MS. Analytics - Data Science <br />|
   
 
 ## Introduction
