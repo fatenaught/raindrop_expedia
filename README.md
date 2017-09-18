@@ -2,7 +2,7 @@
 > By RainDrop
 <br />
 
-| Daodao Wang | Weiye Deng |
+| Daodao Wang  <br /> <span style="font-weight:normal"> Quantitative Research Associate </span>| Weiye Deng |
 |    :---:    |     :---:  | 
 
   
