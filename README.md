@@ -1,7 +1,8 @@
 # Expedia Hotel Recommendation
 > By RainDrop
 
-![yeah](https://kaggle2.blob.core.windows.net/competitions/kaggle/5056/media/expedia_icons.png)
+
+![](https://kaggle2.blob.core.windows.net/competitions/kaggle/5056/media/expedia_icons.png)
 
 ## Introduction
 
