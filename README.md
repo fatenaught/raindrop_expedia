@@ -1,7 +1,8 @@
 # Expedia Hotel Recommendation
 TEAM NAME: RainDrop
 
-Introduction
+
+### Introduction
 
 
-Data Cleaning and Feature Engineering
+### Data Cleaning and Feature Engineering
