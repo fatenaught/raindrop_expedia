@@ -1,5 +1,5 @@
 # Expedia Hotel Recommendation
-TEAM NAME: RainDrop
+### By RainDrop
 
 
 ### Introduction
