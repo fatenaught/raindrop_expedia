@@ -7,10 +7,30 @@
  
 ## Environment Setup
 
+Install Spark and sparklyr
 ```
+install.packages("sparklyr")
 library(sparklyr)
-library(caret)
-library(h2o)
+spark_install(version = "1.6.2")
+```
+Install other necessary packages
+
+```
+install.packages('ggplot2')
+install.packages('readr')
+install.packages('rgeos')
+install.packages('sp')
+install.packages('rgdal')
+install.packages('lubridate')
+install.packages('utils')
+install.packages('googleVis')
+install.packages('chron')
+install.packages('glmnet')
+install.packages('sparklyr')
+install.packages('dplyr')
+install.packages('ggmap')
+install.packages('reshape2')
+install.packages('caret')
 ```
 
 ## Introduction
