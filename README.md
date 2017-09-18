@@ -2,8 +2,9 @@
 > By RainDrop
 <br />
 
-| :---         |     :---:      |          ---: |
-| git status <br/> hehe </br>  | git status     | git status    |
+| Daodao Wang </br> git status <br/> hehe </br> | Weiye Deng     |
+| :---:        |     :---:      |
+| git status <br/> hehe </br>  | git status     |
   
 
 ## Introduction
