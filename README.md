@@ -1,2 +1,8 @@
-# raindrop_expedia
-Expedia Recommender Kaggle
+# Expedia Hotel Recommendation
+By RainDrop
+
+
+### Introduction
+
+
+### Data Cleaning and Feature Engineering
