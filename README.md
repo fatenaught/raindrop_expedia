@@ -17,13 +17,13 @@ The goal of this project is to build a multi classification recommendation model
 
 ## Environment Setup
 
-Install Spark and sparklyr
+Install Spark and sparklyr (Open RStudio, type in the following code in the RStudio Console):
 ```
 install.packages("sparklyr")
 library(sparklyr)
 spark_install(version = "1.6.2")
 ```
-Install other necessary packages
+Install other necessary packages (Open RStudio, type in the following code in the RStudio Console:):
 
 ```
 install.packages('ggplot2')
