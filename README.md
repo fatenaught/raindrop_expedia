@@ -3,7 +3,7 @@
 <br />
 
 | Daodao Wang | Weiye Deng |
-|             |             |
+|    :---:    |     :---:  | 
 
   
 
