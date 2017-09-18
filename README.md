@@ -2,7 +2,6 @@
 > By RainDrop
 <br />
 
-| Left-aligned | Center-aligned | Right-aligned |
 | :---         |     :---:      |          ---: |
 | git status <br/> hehe </br>  | git status     | git status    |
   
