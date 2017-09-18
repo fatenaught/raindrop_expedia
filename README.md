@@ -1,8 +1,17 @@
 # Expedia Hotel Recommendation
-By RainDrop
+> By RainDrop
 
 
-### Introduction
+## Introduction
 
+## Data Cleaning and Feature Engineering
 
-### Data Cleaning and Feature Engineering
+## Data Partitioning
+
+## Model Initialization
+
+## Parameter Tuning and Cross Validation
+
+## Model Combination
+
+## Model Testing
