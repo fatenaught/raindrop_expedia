@@ -1,6 +1,10 @@
 # Expedia Hotel Recommendation
 > By RainDrop
-<br />
+>
+>| Daodao Wang | Weiye Deng |
+>|    :---:    |     :---:  | 
+>| Quantitative Research Associate <br /> fatenaught@gmail.com <br /> MS. Analytics - Data Science <br /> Georgetown University | Business Intelligence Engineer  <br /> dwy904@gmail.com <br /> MS. Analytics - Data Science <br /> Georgetown University|
+
 
 ## Introduction
 
@@ -10,7 +14,32 @@ The goal of this project is to build a multi classification recommendation model
 
 ![](https://github.com/dwy904/RainDrop_ExpediaRecommendation/blob/master/expedia_icons.png)
 
-<br />
+
+
+## Environment Setup
+
+Install Spark and sparklyr (Open RStudio, type in the following code in the RStudio Console):
+
+```r
+install.packages("sparklyr")
+library(sparklyr)
+spark_install(version = "1.6.2")
+```
+Install other necessary packages (Open RStudio, type in the following code in the RStudio Console:):
+
+```r
+install.packages('ggplot2')
+install.packages('readr')
+install.packages('lubridate')
+install.packages('utils')
+install.packages('chron')
+install.packages('glmnet')
+install.packages('sparklyr')
+install.packages('dplyr')
+install.packages('reshape2')
+install.packages('caret')
+install.packages('h2o')
+```
 
 ## Data Cleaning and Feature Engineering
 
@@ -22,6 +51,6 @@ The goal of this project is to build a multi classification recommendation model
 
 ## Model Combination
 
-## Model Testing
+## Model Finalization
 
 
