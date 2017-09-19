@@ -1,11 +1,10 @@
 # Expedia Hotel Recommendation
 > By RainDrop
 
-{table-plus:border=0|class=''}
-| |Daodao Wang| | |Weiye Deng| |
+| Daodao Wang | Weiye Deng |
 |    :---:    |     :---:  | 
 | Quantitative Research Associate <br /> fatenaught@gmail.com <br /> MS. Analytics - Data Science <br /> Georgetown University | Business Intelligence Engineer  <br /> dwy904@gmail.com <br /> MS. Analytics - Data Science <br /> Georgetown University|
-{table-plus}
+
 
 ## Introduction
 
