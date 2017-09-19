@@ -49,6 +49,6 @@ install.packages('h2o')
 
 ## Model Combination
 
-## Model Testing
+## Model Finalization
 
 
