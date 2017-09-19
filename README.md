@@ -26,7 +26,7 @@ spark_install(version = "1.6.2")
 ```
 Install other necessary packages (Open RStudio, type in the following code in the RStudio Console:):
 
-```
+```r
 install.packages('ggplot2')
 install.packages('readr')
 install.packages('lubridate')
