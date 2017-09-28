@@ -1,5 +1,5 @@
 # Expedia Hotel Recommendation
-> By RainDrop
+> By GrandMingLakeのSummerRainLotus
 >
 >| Daodao Wang | Weiye Deng |
 >|    :---:    |     :---:  | 
